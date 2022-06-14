@@ -8,7 +8,7 @@ int main()
 		printf("up stack\n");
 }
 */
-
+//how to find stack base addresss
 #include<stdlib.h>
 #include<stdio.h>
 struct student

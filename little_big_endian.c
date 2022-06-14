@@ -8,5 +8,6 @@ int main()
 		printf("little\n");
 	else
 		printf("big\n");
+	//klwefjl
 }
 
